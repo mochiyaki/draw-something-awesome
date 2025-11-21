@@ -1,5 +1,1 @@
-
-## frontend
-```
-npm run dev
-```
+# frontend
