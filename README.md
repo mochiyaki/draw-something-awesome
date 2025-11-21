@@ -1,6 +1,5 @@
 # Draw Something AWESOME!
-![banner](demo.png)
-
+ai agent powered drawing board
 
 ## backend
 ```
@@ -11,3 +10,5 @@ python backend.py
 ```
 npm run dev
 ```
+
+![banner](demo.png)
