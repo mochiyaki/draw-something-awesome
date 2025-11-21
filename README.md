@@ -1,5 +1,5 @@
 # Draw Something AWESOME!
-![banner](banner.png)
+![banner](demo.png)
 
 
 ## backend
@@ -7,3 +7,7 @@
 python backend.py
 ```
 
+## frontend
+```
+npm run dev
+```
