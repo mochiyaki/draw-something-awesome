@@ -21,7 +21,7 @@ project/
 ├── 🔐 .env.example                 # Environment template
 ├── 📦 requirements.txt             # Python dependencies
 │
-├── 📁 frontend/src/                    # Core framework
+├── 📁 frontend/src/                # Framework
 │   ├── 🤖 agents/                  # Agent implementations
 │   ├── 🛠️ tools/                   # Built-in tools
 │   ├── 🧠 llm/                     # LLM providers & management
