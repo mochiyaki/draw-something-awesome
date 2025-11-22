@@ -15,7 +15,7 @@ npm run dev
 
 ![banner](demo.png)
 
-## Project structure
+## Project Structure
 ```
 project/
 ├── 📄 README.md                    # This file
