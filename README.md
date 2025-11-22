@@ -12,7 +12,7 @@ npm run dev
 ```
 
 ## project structure
-
+```
 project/
 ├── 📄 README.md                    # This file
 ├── 🔧 backend.py                   # Backend api/endpoint
@@ -28,5 +28,6 @@ project/
 └── 📁 tests/                       # Test suite
     ├── 🧪 test_agents.py
     └── 🧪 test_tools.py
+```
 
 ![banner](demo.png)
