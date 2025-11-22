@@ -11,6 +11,8 @@ python backend.py
 npm run dev
 ```
 
+![banner](demo.png)
+
 ## project structure
 ```
 project/
@@ -29,5 +31,3 @@ project/
     ├── 🧪 test_agents.py
     └── 🧪 test_tools.py
 ```
-
-![banner](demo.png)
