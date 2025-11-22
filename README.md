@@ -3,19 +3,19 @@
 
 **Draw Something AWESOME!** is an AI-powered interactive drawing board that combines a Python FastAPI backend with a modern JavaScript frontend. The system integrates LLM-driven agents, built-in toolchains, and MCP examples to enable intelligent drawing assistance directly in the browser. The backend serves as a fast, lightweight API layer, while the frontend manages agent logic, tool execution, and real-time interactions. The project features a clean modular structure, support for custom LLM providers, and a growing testing suite—making it a solid foundation for experimenting with AI-driven creative tools.
 
-## backend
+## Backend
 ```
 python backend.py
 ```
 
-## frontend
+## Frontend
 ```
 npm run dev
 ```
 
 ![banner](demo.png)
 
-## project structure
+## Project structure
 ```
 project/
 ├── 📄 README.md                    # This file
@@ -34,7 +34,7 @@ project/
     └── 🧪 test_tools.py
 ```
 
-## checklist ✅
+## Checklist ✅
 - [x] Connection management
 - [x] FastAPI
 - [x] Message/prompt protocol
@@ -42,6 +42,6 @@ project/
 - [x] FastMCP server
 - [ ] Testing suite
 
-## keywords
+## Keywords
 
-ai agent powered drawing board
+ai agent-powered drawing board
