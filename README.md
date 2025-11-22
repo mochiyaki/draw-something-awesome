@@ -31,3 +31,11 @@ project/
     ├── 🧪 test_agents.py
     └── 🧪 test_tools.py
 ```
+
+## checklist ✅
+- [x] Connection management
+- [x] FastAPI
+- [x] Message/prompt protocol
+- [x] LLM core plugin
+- [x] FastMCP server
+- [ ] Testing suite
